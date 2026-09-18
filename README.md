@@ -1,4 +1,4 @@
-Greetings, I am Yash Jadhav (lightsigma96), know more about me here : lightsigma96.github.io
+Greetings, I am Yash Jadhav (lightsigma96), know more about me here : [lightsigma96.github.io](https://lightsigma96.github.io/)
 
 ## Open Source Contributions
 
